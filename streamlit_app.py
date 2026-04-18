@@ -23,10 +23,10 @@ INPUT_DIR = WORK_DIR / "latest_input"
 OUTPUT_DIR = WORK_DIR / "latest_output"
 
 SAMPLE_FILES = {
-    "資料檔樣本": ROOT / "sample_data_template.csv",
-    "設定檔樣本": ROOT / "questionnaire_config_template.csv",
-    "模型檔樣本": ROOT / "analysis_model_template.csv",
-    "標籤檔樣本": ROOT / "sample_variable_labels.csv",
+    "資料檔樣本": ROOT / "sample_data_template.xlsx",
+    "設定檔樣本": ROOT / "questionnaire_config_template.xlsx",
+    "模型檔樣本": ROOT / "analysis_model_template.xlsx",
+    "標籤檔樣本": ROOT / "sample_variable_labels.xlsx",
 }
 
 
