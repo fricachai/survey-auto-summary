@@ -1,0 +1,29 @@
+本工具執行後，預設會在指定輸出資料夾產生以下內容：
+
+1. survey_auto_summary_output.xlsx
+   - 主要分析結果總表
+   - 含樣本篩選、人口統計、題項描述、構面分數、信度、效度、相關分析、差異分析、迴歸、中介、調節、APA 表格、PLS-SEM 前置整理
+
+2. survey_auto_summary_report.docx
+   - 正式 Word 摘要報告
+   - 含 APA 風格表格與表註
+
+3. survey_auto_summary_brief.txt
+   - 精簡文字摘要
+
+4. 論文段落模板.txt
+   - 可作為論文第四章撰寫草稿之骨架
+
+5. survey_auto_summary_notes.xlsx
+   - 套件缺漏、Word 未輸出、圖表未輸出等執行環境備註
+
+6. charts 資料夾
+   - 人口統計長條圖
+   - 構面平均數長條圖
+   - 構面相關熱圖
+
+若某分析未能執行，請優先查看：
+- Excel 中的「執行環境備註」
+- survey_auto_summary_notes.xlsx
+- 對應分析工作表是否為空表
+- README 中的限制與假設說明

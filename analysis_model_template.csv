@@ -1,0 +1,5 @@
+analysis_type,model_name,outcome,predictor,mediator,moderator,covariates,step_predictors,notes
+regression,購買意願多元迴歸,購買意願,人格特質|使用動機|知覺價值,,,age,,範例多元迴歸模型
+hierarchical_regression,購買意願階層迴歸,購買意願,,,,,age||人格特質|使用動機||知覺價值,Step1 年齡；Step2 投入主要構面；Step3 加入知覺價值
+mediation,知覺價值中介模型,購買意願,人格特質,知覺價值,,age,,範例中介模型
+moderation,年齡調節模型,購買意願,知覺價值,,age,,,範例調節模型

@@ -1,0 +1,17 @@
+variable,construct,subconstruct,reverse,type,label
+gender,,,0,demographic,性別
+education,,,0,demographic,教育程度
+age,,,0,continuous,年齡
+A1,人格特質,外向性,0,likert,外向性題項1
+A2,人格特質,外向性,0,likert,外向性題項2
+A3,人格特質,外向性,1,likert,外向性題項3
+A4,人格特質,外向性,0,likert,外向性題項4
+B1,使用動機,社交動機,0,likert,社交動機題項1
+B2,使用動機,社交動機,0,likert,社交動機題項2
+B3,使用動機,社交動機,0,likert,社交動機題項3
+D1,知覺價值,情感價值,0,likert,情感價值題項1
+D2,知覺價值,情感價值,0,likert,情感價值題項2
+D3,知覺價值,情感價值,0,likert,情感價值題項3
+E1,購買意願,購買意願,0,likert,購買意願題項1
+E2,購買意願,購買意願,0,likert,購買意願題項2
+E3,購買意願,購買意願,0,likert,購買意願題項3

@@ -1,0 +1,15 @@
+variable,construct,subconstruct,reverse,type,label
+gender,,,0,demographic,性別
+education,,,0,demographic,教育程度
+department,,,0,demographic,科系
+grade,,,0,demographic,年級
+age,,,0,continuous,年齡
+A1,學習投入,行為投入,0,likert,學習投入題項1
+A2,學習投入,行為投入,0,likert,學習投入題項2
+A3,學習投入,行為投入,1,likert,學習投入題項3
+B1,課程滿意度,教學方法,0,likert,課程滿意題項1
+B2,課程滿意度,教學方法,0,likert,課程滿意題項2
+B3,課程滿意度,教學方法,0,likert,課程滿意題項3
+C1,持續修課意願,持續修課意願,0,likert,持續修課題項1
+C2,持續修課意願,持續修課意願,0,likert,持續修課題項2
+C3,持續修課意願,持續修課意願,0,likert,持續修課題項3
