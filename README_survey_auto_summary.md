@@ -176,6 +176,34 @@ run.bat
 run.bat your_data.csv your_config.csv output your_models.csv your_labels.csv
 ```
 
+### 本地上傳介面
+
+如果你希望用按鈕上傳資料檔，而不是自己手動打命令列，可以使用 Streamlit 介面：
+
+```bat
+run_ui.bat
+```
+
+或：
+
+```bash
+streamlit run streamlit_app.py
+```
+
+介面功能包括：
+
+- 問卷資料檔上傳按鈕
+- 題項設定檔上傳按鈕
+- 模型設定檔上傳按鈕
+- 中文標籤檔上傳按鈕
+- 每一種檔案旁邊都有樣本檔下載按鈕
+- 執行完成後可直接下載分析結果
+
+預設會在本地產生：
+
+- `ui_runs/latest_input`
+- `ui_runs/latest_output`
+
 ## 八、參數說明
 
 - `--data`
